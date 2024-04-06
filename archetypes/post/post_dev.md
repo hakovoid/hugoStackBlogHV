@@ -8,5 +8,7 @@ license:
 hidden: false
 comments: true
 draft: true
-# author: ["Mugen"]
+author: ["Mugen"]
+categories: ["Development"]
+tags: ["tech", "dev"]
 ---

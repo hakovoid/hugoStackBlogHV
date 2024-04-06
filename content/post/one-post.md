@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "One Post"
 description: 
-date: {{ .Date }}
+date: 2024-04-06T16:57:16+02:00
 image: 
 math: 
 license: 

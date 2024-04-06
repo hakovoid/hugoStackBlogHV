@@ -8,5 +8,7 @@ license:
 hidden: false
 comments: true
 draft: true
-# author: ["Mugen"]
+author: ["Mugen"]
+categories: ["Tools"]
+tags: ["tech", "tool", "dev", "cyber"]
 ---
