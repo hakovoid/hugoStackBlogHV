@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 author: ["Mugen"]
 categories: ["Development"]
 tags: ["tech", "dev"]
