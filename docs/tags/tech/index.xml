@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tech on Hakovoid</title>
-        <link>/tags/tech/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/tech/</link>
         <description>Recent content in Tech on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/hugoStackBlogHV/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Example Post Dev</title>
-        <link>/p/example-post-dev/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/example-post-dev/</link>
         <pubDate>Sat, 06 Apr 2024 22:54:44 +0200</pubDate>
         
-        <guid>/p/example-post-dev/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/example-post-dev/</guid>
         <description></description>
         </item>
         <item>
         <title>Example Post Cyber</title>
-        <link>/p/example-post-cyber/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/example-post-cyber/</link>
         <pubDate>Sat, 06 Apr 2024 22:48:41 +0200</pubDate>
         
-        <guid>/p/example-post-cyber/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/example-post-cyber/</guid>
         <description></description>
         </item>
         <item>
         <title>Five Post</title>
-        <link>/p/five-post/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/five-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>/p/five-post/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/five-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Four Post</title>
-        <link>/p/four-post/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/four-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:14:15 +0200</pubDate>
         
-        <guid>/p/four-post/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/four-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Three Post</title>
-        <link>/p/three-post/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/three-post/</link>
         <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
         
-        <guid>/p/three-post/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/three-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Two Post</title>
-        <link>/p/two-post/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/p/two-post/</link>
         <pubDate>Sat, 06 Apr 2024 16:59:11 +0200</pubDate>
         
-        <guid>/p/two-post/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/p/two-post/</guid>
         <description></description>
         </item>
         
