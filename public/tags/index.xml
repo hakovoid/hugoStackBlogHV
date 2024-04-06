@@ -2,80 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Hakovoid</title>
-        <link>https://demo.stack.jimmycai.com/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 19:28:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Dev</title>
+        <link>http://localhost:1313/tags/dev/</link>
+        <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
+        
+        <guid>http://localhost:1313/tags/dev/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tech</title>
+        <link>http://localhost:1313/tags/tech/</link>
+        <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
+        
+        <guid>http://localhost:1313/tags/tech/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cyber</title>
+        <link>http://localhost:1313/tags/cyber/</link>
+        <pubDate>Sat, 06 Apr 2024 16:59:11 +0200</pubDate>
+        
+        <guid>http://localhost:1313/tags/cyber/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Css</title>
-        <link>https://demo.stack.jimmycai.com/tags/css/</link>
+        <link>http://localhost:1313/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/css/</guid>
+        <guid>http://localhost:1313/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://demo.stack.jimmycai.com/tags/html/</link>
+        <link>http://localhost:1313/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/html/</guid>
+        <guid>http://localhost:1313/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://demo.stack.jimmycai.com/tags/markdown/</link>
+        <link>http://localhost:1313/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/markdown/</guid>
+        <guid>http://localhost:1313/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://demo.stack.jimmycai.com/tags/themes/</link>
+        <link>http://localhost:1313/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/themes/</guid>
+        <guid>http://localhost:1313/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://demo.stack.jimmycai.com/tags/privacy/</link>
+        <link>http://localhost:1313/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/privacy/</guid>
+        <guid>http://localhost:1313/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://demo.stack.jimmycai.com/tags/shortcodes/</link>
+        <link>http://localhost:1313/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/shortcodes/</guid>
+        <guid>http://localhost:1313/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://demo.stack.jimmycai.com/tags/tag-with-whitespaces/</link>
+        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/tag-with-whitespaces/</guid>
+        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://demo.stack.jimmycai.com/tags/text/</link>
+        <link>http://localhost:1313/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/text/</guid>
+        <guid>http://localhost:1313/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://demo.stack.jimmycai.com/tags/emoji/</link>
+        <link>http://localhost:1313/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/tags/emoji/</guid>
+        <guid>http://localhost:1313/tags/emoji/</guid>
         <description></description>
         </item>
         
