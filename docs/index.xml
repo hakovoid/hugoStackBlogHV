@@ -2,56 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hakovoid</title>
-        <link>http://localhost:1313/hugoStackBlogHV/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/</link>
         <description>Recent content on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:25:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/hugoStackBlogHV/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Example Post Dev</title>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-dev/</link>
+        <pubDate>Sat, 06 Apr 2024 22:54:44 +0200</pubDate>
+        
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-dev/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Post Cyber</title>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-cyber/</link>
+        <pubDate>Sat, 06 Apr 2024 22:48:41 +0200</pubDate>
+        
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-cyber/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Five Post</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/five-post/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/five-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/five-post/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/five-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Four Post</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/four-post/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:14:15 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/four-post/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Three Post</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/three-post/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</link>
         <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/three-post/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Two Post</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/two-post/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/two-post/</link>
         <pubDate>Sat, 06 Apr 2024 16:59:11 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/two-post/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/two-post/</guid>
         <description></description>
         </item>
         <item>
         <title>One Post</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/one-post/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/one-post/</link>
         <pubDate>Sat, 06 Apr 2024 16:57:16 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/one-post/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/one-post/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/hugoStackBlogHV/about/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/about/</link>
         <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/about/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/about/</guid>
         <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;
 &lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;199
@@ -72,19 +88,19 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/hugoStackBlogHV/archives/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/archives/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/markdown-syntax-guide/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;
     &lt;a href=&#34;#headings&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     Headings
@@ -315,10 +331,10 @@
         </item>
         <item>
         <title>Rich Content</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/rich-content/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/rich-content/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
@@ -429,11 +445,11 @@
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/placeholder-text/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/placeholder-text/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -464,10 +480,10 @@
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/math-typesetting/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/math-typesetting/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -498,11 +514,11 @@ $$&lt;/p&gt;</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/hugoStackBlogHV/p/emoji-support/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/emoji-support/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -520,10 +536,10 @@ $$&lt;/p&gt;</description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/hugoStackBlogHV/search/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/search/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/search/</guid>
         <description></description>
         </item>
         
