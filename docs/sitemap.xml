@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugoStackBlogHV/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/dev/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/development/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/post/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/post/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/tech/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/three-post/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/cyber/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</loc>
     <lastmod>2024-04-06T16:59:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/cybersecurity/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</loc>
     <lastmod>2024-04-06T16:59:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/two-post/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/two-post/</loc>
     <lastmod>2024-04-06T16:59:11+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/one-post/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/one-post/</loc>
     <lastmod>2024-04-06T16:57:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/about/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/about/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/page/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/page/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/archives/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/css/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/html/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/markdown/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/markdown-syntax-guide/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/syntax/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/themes/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/themes/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/privacy/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/rich-content/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/shortcodes/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/placeholder-text/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/tag-with-whitespaces/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/test/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/test-with-whitespaces/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/text/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/math-typesetting/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/tags/emoji/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/p/emoji-support/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/search/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugoStackBlogHV/categories/tools/</loc>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</loc>
   </url>
 </urlset>

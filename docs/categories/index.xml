@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Hakovoid</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/</link>
         <description>Recent content in Categories on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 19:28:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/hugoStackBlogHV/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 19:28:36 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Development</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/development/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</link>
         <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/development/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Development" /&gt;</description>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Development" /&gt;</description>
         </item>
         <item>
         <title>CyberSecurity</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/cybersecurity/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</link>
         <pubDate>Sat, 06 Apr 2024 16:59:11 +0200</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/cybersecurity/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post CyberSecurity" /&gt;</description>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post CyberSecurity" /&gt;</description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/syntax/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/syntax/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/themes/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/themes/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/test/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/test-with-whitespaces/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/test-with-whitespaces/</guid>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Tools</title>
-        <link>http://localhost:1313/hugoStackBlogHV/categories/tools/</link>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/hugoStackBlogHV/categories/tools/</guid>
-        <description>&lt;img src="http://localhost:1313/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Tools" /&gt;</description>
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</guid>
+        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Tools" /&gt;</description>
         </item>
         
     </channel>
