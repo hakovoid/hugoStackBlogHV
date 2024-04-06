@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tools on Hakovoid</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</link>
+        <link>/categories/tools/</link>
         <description>Recent content in Tools on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:25:39 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/categories/tools/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:25:39 +0200</lastBuildDate><atom:link href="/categories/tools/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Five Post</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/p/five-post/</link>
+        <link>/p/five-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/five-post/</guid>
+        <guid>/p/five-post/</guid>
         <description></description>
         </item>
         <item>
         <title>Four Post</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</link>
+        <link>/p/four-post/</link>
         <pubDate>Sat, 06 Apr 2024 22:14:15 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</guid>
+        <guid>/p/four-post/</guid>
         <description></description>
         </item>
         

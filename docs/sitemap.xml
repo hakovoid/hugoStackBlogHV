@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</loc>
+    <loc>/tags/dev/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-dev/</loc>
+    <loc>/p/example-post-dev/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</loc>
+    <loc>/tags/tech/</loc>
     <lastmod>2024-04-06T22:54:44+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</loc>
+    <loc>/tags/cyber/</loc>
     <lastmod>2024-04-06T22:48:41+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</loc>
+    <loc>/categories/cybersecurity/</loc>
     <lastmod>2024-04-06T22:48:41+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/example-post-cyber/</loc>
+    <loc>/p/example-post-cyber/</loc>
     <lastmod>2024-04-06T22:48:41+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/five-post/</loc>
+    <loc>/p/five-post/</loc>
     <lastmod>2024-04-06T22:25:39+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tool/</loc>
+    <loc>/tags/tool/</loc>
     <lastmod>2024-04-06T22:25:39+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</loc>
+    <loc>/categories/tools/</loc>
     <lastmod>2024-04-06T22:25:39+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</loc>
+    <loc>/p/four-post/</loc>
     <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</loc>
+    <loc>/p/three-post/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/two-post/</loc>
+    <loc>/p/two-post/</loc>
     <lastmod>2024-04-06T16:59:11+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/one-post/</loc>
+    <loc>/p/one-post/</loc>
     <lastmod>2024-04-06T16:57:16+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/page/</loc>
+    <loc>/page/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/markdown-syntax-guide/</loc>
+    <loc>/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/rich-content/</loc>
+    <loc>/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/placeholder-text/</loc>
+    <loc>/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tag-with-whitespaces/</loc>
+    <loc>/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</loc>
+    <loc>/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</loc>
+    <loc>/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/text/</loc>
+    <loc>/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/math-typesetting/</loc>
+    <loc>/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/emoji-support/</loc>
+    <loc>/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/search/</loc>
+    <loc>/search/</loc>
   </url>
 </urlset>

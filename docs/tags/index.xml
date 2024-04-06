@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Hakovoid</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/</link>
+        <link>/tags/</link>
         <description>Recent content in Tags on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Dev</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</link>
+        <link>/tags/dev/</link>
         <pubDate>Sat, 06 Apr 2024 22:54:44 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</guid>
+        <guid>/tags/dev/</guid>
         <description></description>
         </item>
         <item>
         <title>Tech</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</link>
+        <link>/tags/tech/</link>
         <pubDate>Sat, 06 Apr 2024 22:54:44 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</guid>
+        <guid>/tags/tech/</guid>
         <description></description>
         </item>
         <item>
         <title>Cyber</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</link>
+        <link>/tags/cyber/</link>
         <pubDate>Sat, 06 Apr 2024 22:48:41 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</guid>
+        <guid>/tags/cyber/</guid>
         <description></description>
         </item>
         <item>
         <title>Tool</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/tool/</link>
+        <link>/tags/tool/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/tool/</guid>
+        <guid>/tags/tool/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/css/</link>
+        <link>/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/css/</guid>
+        <guid>/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/html/</link>
+        <link>/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/html/</guid>
+        <guid>/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/markdown/</link>
+        <link>/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/markdown/</guid>
+        <guid>/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/themes/</link>
+        <link>/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/themes/</guid>
+        <guid>/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/privacy/</link>
+        <link>/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/privacy/</guid>
+        <guid>/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/shortcodes/</link>
+        <link>/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/shortcodes/</guid>
+        <guid>/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/tag-with-whitespaces/</link>
+        <link>/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/tag-with-whitespaces/</guid>
+        <guid>/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/text/</link>
+        <link>/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/text/</guid>
+        <guid>/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/tags/emoji/</link>
+        <link>/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/tags/emoji/</guid>
+        <guid>/tags/emoji/</guid>
         <description></description>
         </item>
         

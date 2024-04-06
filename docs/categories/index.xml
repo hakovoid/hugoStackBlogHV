@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Hakovoid</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/</link>
+        <link>/categories/</link>
         <description>Recent content in Categories on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:54:44 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Development</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</link>
+        <link>/categories/development/</link>
         <pubDate>Sat, 06 Apr 2024 22:54:44 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</guid>
-        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Development" /&gt;</description>
+        <guid>/categories/development/</guid>
+        <description>&lt;img src="/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Development" /&gt;</description>
         </item>
         <item>
         <title>CyberSecurity</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</link>
+        <link>/categories/cybersecurity/</link>
         <pubDate>Sat, 06 Apr 2024 22:48:41 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</guid>
-        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post CyberSecurity" /&gt;</description>
+        <guid>/categories/cybersecurity/</guid>
+        <description>&lt;img src="/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post CyberSecurity" /&gt;</description>
         </item>
         <item>
         <title>Tools</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</link>
+        <link>/categories/tools/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</guid>
-        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Tools" /&gt;</description>
+        <guid>/categories/tools/</guid>
+        <description>&lt;img src="/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Tools" /&gt;</description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</link>
+        <link>/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/syntax/</guid>
+        <guid>/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</link>
+        <link>/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/themes/</guid>
+        <guid>/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</link>
+        <link>/categories/test/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/test/</guid>
-        <description>&lt;img src="https://hakovoid.github.io/hugoStackBlogHV/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>/categories/test/</guid>
+        <description>&lt;img src="/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</link>
+        <link>/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/categories/test-with-whitespaces/</guid>
+        <guid>/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         

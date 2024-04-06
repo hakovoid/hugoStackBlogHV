@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Hakovoid</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/page/</link>
+        <link>/page/</link>
         <description>Recent content in Pages on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/about/</link>
+        <link>/about/</link>
         <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/about/</guid>
+        <guid>/about/</guid>
         <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;
 &lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;199
@@ -32,18 +32,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/archives/</link>
+        <link>/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/archives/</guid>
+        <guid>/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://hakovoid.github.io/hugoStackBlogHV/search/</link>
+        <link>/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://hakovoid.github.io/hugoStackBlogHV/search/</guid>
+        <guid>/search/</guid>
         <description></description>
         </item>
         
