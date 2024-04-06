@@ -5,29 +5,38 @@
     <loc>https://hakovoid.github.io/hugoStackBlogHV/</loc>
     <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/post/</loc>
     <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/dev/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tool/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
-  </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/tech/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
-  </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
-  </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/cyber/</loc>
-    <lastmod>2024-04-06T16:59:11+02:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/cybersecurity/</loc>
     <lastmod>2024-04-06T16:59:11+02:00</lastmod>
@@ -102,7 +111,5 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/search/</loc>
-  </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/tools/</loc>
   </url>
 </urlset>

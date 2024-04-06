@@ -7,6 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 06 Apr 2024 22:14:15 +0200</lastBuildDate><atom:link href="https://hakovoid.github.io/hugoStackBlogHV/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Four Post</title>
+        <link>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</link>
+        <pubDate>Sat, 06 Apr 2024 22:14:15 +0200</pubDate>
+        
+        <guid>https://hakovoid.github.io/hugoStackBlogHV/p/four-post/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Three Post</title>
         <link>https://hakovoid.github.io/hugoStackBlogHV/p/three-post/</link>
         <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
