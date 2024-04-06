@@ -7,6 +7,7 @@ languageCode: "en-us"
 paginate: 5
 title: "Hakovoid"
 theme: "hugo-theme-stack"
+# publishDir: "docs"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -257,13 +258,12 @@ markup:
         endLevel: 2
         ordered: true
         startLevel: 2
-    highlight:
-        noClasses: false
-        codeFences: true
-        guessSyntax: true
-        lineNoStart: 1
-        lineNos: true
-        lineNumbersInTable: true
-        tabWidth: 4
+    # highlight:
+    #     noClasses: false
+    #     codeFences: true
+    #     guessSyntax: true
+    #     lineNoStart: 1
+    #     lineNos: true
+    #     lineNumbersInTable: true
+    #     tabWidth: 2
 
-# publishDir: "docs"
