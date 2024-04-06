@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
+  </url><url>
+    <loc>https://hakovoid.github.io/hugoStackBlogHV/post/</loc>
+    <lastmod>2024-04-06T22:14:15+02:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
@@ -12,9 +15,6 @@
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/categories/development/</loc>
-    <lastmod>2024-04-06T19:28:36+02:00</lastmod>
-  </url><url>
-    <loc>https://hakovoid.github.io/hugoStackBlogHV/post/</loc>
     <lastmod>2024-04-06T19:28:36+02:00</lastmod>
   </url><url>
     <loc>https://hakovoid.github.io/hugoStackBlogHV/tags/</loc>
