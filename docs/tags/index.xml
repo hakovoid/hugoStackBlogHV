@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Hakovoid</title>
-        <link>/tags/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/</link>
         <description>Recent content in Tags on Hakovoid</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Apr 2024 22:25:39 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 06 Apr 2024 22:25:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/hugoStackBlogHV/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Cyber</title>
-        <link>/tags/cyber/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/cyber/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>/tags/cyber/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/cyber/</guid>
         <description></description>
         </item>
         <item>
         <title>Dev</title>
-        <link>/tags/dev/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/dev/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>/tags/dev/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/dev/</guid>
         <description></description>
         </item>
         <item>
         <title>Tech</title>
-        <link>/tags/tech/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/tech/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>/tags/tech/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/tech/</guid>
         <description></description>
         </item>
         <item>
         <title>Tool</title>
-        <link>/tags/tool/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/tool/</link>
         <pubDate>Sat, 06 Apr 2024 22:25:39 +0200</pubDate>
         
-        <guid>/tags/tool/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/tool/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>/tags/css/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/css/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>/tags/html/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/html/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>/tags/markdown/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/markdown/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>/tags/themes/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/themes/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>/tags/privacy/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/privacy/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>/tags/shortcodes/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/shortcodes/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>/tags/tag-with-whitespaces/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/tag-with-whitespaces/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>/tags/text/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/text/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>/tags/emoji/</link>
+        <link>http://localhost:1313/hugoStackBlogHV/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/tags/emoji/</guid>
+        <guid>http://localhost:1313/hugoStackBlogHV/tags/emoji/</guid>
         <description></description>
         </item>
         
