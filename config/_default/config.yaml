@@ -266,4 +266,4 @@ markup:
         lineNumbersInTable: true
         tabWidth: 4
 
-publishDir: "docs"
+# publishDir: "docs"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Dev on Hakovoid</title>
+        <link>http://localhost:1313/tags/dev/</link>
+        <description>Recent content in Dev on Hakovoid</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 06 Apr 2024 19:28:36 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Three Post</title>
+        <link>http://localhost:1313/p/three-post/</link>
+        <pubDate>Sat, 06 Apr 2024 19:28:36 +0200</pubDate>
+        
+        <guid>http://localhost:1313/p/three-post/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
